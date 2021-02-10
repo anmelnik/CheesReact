@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CheesReact/static/css/main.e1dedc40.chunk.css",
-    "main.js": "/CheesReact/static/js/main.3e42e3fe.chunk.js",
-    "main.js.map": "/CheesReact/static/js/main.3e42e3fe.chunk.js.map",
-    "runtime-main.js": "/CheesReact/static/js/runtime-main.e10ab093.js",
-    "runtime-main.js.map": "/CheesReact/static/js/runtime-main.e10ab093.js.map",
-    "static/js/2.2dad6b49.chunk.js": "/CheesReact/static/js/2.2dad6b49.chunk.js",
-    "static/js/2.2dad6b49.chunk.js.map": "/CheesReact/static/js/2.2dad6b49.chunk.js.map",
-    "static/js/3.1c060fe8.chunk.js": "/CheesReact/static/js/3.1c060fe8.chunk.js",
-    "static/js/3.1c060fe8.chunk.js.map": "/CheesReact/static/js/3.1c060fe8.chunk.js.map",
-    "index.html": "/CheesReact/index.html",
-    "static/css/main.e1dedc40.chunk.css.map": "/CheesReact/static/css/main.e1dedc40.chunk.css.map",
-    "static/js/2.2dad6b49.chunk.js.LICENSE.txt": "/CheesReact/static/js/2.2dad6b49.chunk.js.LICENSE.txt",
-    "static/media/q_w.png": "/CheesReact/static/media/q_w.c106f144.png"
+    "main.css": "/ChessReact/static/css/main.e1dedc40.chunk.css",
+    "main.js": "/ChessReact/static/js/main.2336e676.chunk.js",
+    "main.js.map": "/ChessReact/static/js/main.2336e676.chunk.js.map",
+    "runtime-main.js": "/ChessReact/static/js/runtime-main.693d4bcf.js",
+    "runtime-main.js.map": "/ChessReact/static/js/runtime-main.693d4bcf.js.map",
+    "static/js/2.287a3edc.chunk.js": "/ChessReact/static/js/2.287a3edc.chunk.js",
+    "static/js/2.287a3edc.chunk.js.map": "/ChessReact/static/js/2.287a3edc.chunk.js.map",
+    "static/js/3.1c060fe8.chunk.js": "/ChessReact/static/js/3.1c060fe8.chunk.js",
+    "static/js/3.1c060fe8.chunk.js.map": "/ChessReact/static/js/3.1c060fe8.chunk.js.map",
+    "index.html": "/ChessReact/index.html",
+    "static/css/main.e1dedc40.chunk.css.map": "/ChessReact/static/css/main.e1dedc40.chunk.css.map",
+    "static/js/2.287a3edc.chunk.js.LICENSE.txt": "/ChessReact/static/js/2.287a3edc.chunk.js.LICENSE.txt",
+    "static/media/q_w.png": "/ChessReact/static/media/q_w.c106f144.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e10ab093.js",
-    "static/js/2.2dad6b49.chunk.js",
+    "static/js/runtime-main.693d4bcf.js",
+    "static/js/2.287a3edc.chunk.js",
     "static/css/main.e1dedc40.chunk.css",
-    "static/js/main.3e42e3fe.chunk.js"
+    "static/js/main.2336e676.chunk.js"
   ]
 }
