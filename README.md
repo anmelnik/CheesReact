@@ -1,2 +1,2 @@
 # CheesReact
-https://anmelnik.github.io/CheesReact/
+https://anmelnik.github.io/ChessReact/
